@@ -1,0 +1,9 @@
+
+| Betrokkene                          | Afdeling/ Functie          | Rol binnen het project     | Benodigde bijdrage                                                                   | Locatie Voor Contact             |
+| ----------------------------------- | -------------------------- | -------------------------- | ------------------------------------------------------------------------------------ | -------------------------------- |
+| Peter Oorschot                      | Bedrijfsbegeleider E&I     | Begeleiding en beoordeling | Inhoudelijke begeleiding, voortgangsbewaking en goedkeuring van resultaten           | Gebouw 1/Tel                     |
+| Engineers E&I(Jan .....)            | E&I/Werkplaats             | Technisch stakeholder      | Informatie over het huidige CMS, technische eisen en ondersteuning bij ontwerpkeuzes | Werkplaats                       |
+| Medewerkers DSD (Arnaud Kuipers)    | DSD                        | Stakeholder                | Inzicht in koppeling tussen CMS en de Meetketen                                      | Gebouw 2                         |
+| Medewerkers Survey(Jan Sterrenburg) | Survey                     | Stakeholder                | Advies over meetprincipes, positioneringstechnieken en validatie van meetresultaten  | Gebouw 1                         |
+| Technische dienst(E&I)              | Werkplaats/Materieeldienst | Ondersteuning realisatie   | Assistentie bij leveren van onderdelen                                               | E&I Werkplaats                   |
+| Externe leveranciers                | Extern                     | Technisch adviseur         | Technische specificaties, productsupport en ondersteuning bij componentselectie      | Via de technische dienst van E&I |

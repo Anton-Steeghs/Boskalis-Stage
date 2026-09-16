@@ -1,0 +1,1 @@
+Aangezien er al testen zijn uitgevoerd voor sensoren word de keuze een heel stuk makkelijker gemaakt voor mij, qua technische eisen is het enige dat is opgesteld is dat het vm
