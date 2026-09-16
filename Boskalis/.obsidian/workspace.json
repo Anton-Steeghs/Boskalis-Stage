@@ -1,0 +1,475 @@
+{
+  "main": {
+    "id": "63117d95fa745610",
+    "type": "split",
+    "children": [
+      {
+        "id": "732fdbaf5279d874",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16f443de011acbf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meetings/FridayReview/Friday1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Friday1"
+            }
+          },
+          {
+            "id": "5a7f5b3302bb28d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bewijslasten/Bewijslasten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bewijslasten"
+            }
+          },
+          {
+            "id": "004f3e74ed7d9171",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bewijslasten/LeeruitkomstenVoorOpleveren.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LeeruitkomstenVoorOpleveren"
+            }
+          },
+          {
+            "id": "90e0d677dfa6158d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algemene zaken/Sprintplannings/SP1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SP1"
+            }
+          },
+          {
+            "id": "25d63354b24b7aac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algemene zaken/Sprintplannings/SP2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SP2"
+            }
+          },
+          {
+            "id": "e7cdfd119d7c1070",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algemene zaken/Sprintplannings/SP3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SP3"
+            }
+          },
+          {
+            "id": "2af9b06919fe5b30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algemene zaken/Sprintplannings/SP2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SP2"
+            }
+          },
+          {
+            "id": "eba335874bdff7a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algemene zaken/Sprintplannings/SP1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SP1"
+            }
+          },
+          {
+            "id": "d671892113276903",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Onderzoeken/Algemeen/Terugkomdag1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Terugkomdag1"
+            }
+          },
+          {
+            "id": "09e210ff59140429",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logboek/Sprint 1/week 3/2026-09-14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-14"
+            }
+          },
+          {
+            "id": "db7fb21cc0c25ac6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meetings/FridayReview/Friday2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Friday2"
+            }
+          },
+          {
+            "id": "4ef9205f2ce0ec00",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Inclino/CF2200160-EISP-9000e3- CFS Inclino Test final BLEY.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CF2200160-EISP-9000e3- CFS Inclino Test final BLEY"
+            }
+          },
+          {
+            "id": "abfea2f7d6ab6b94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logboek/Sprint 1/Sprint 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sprint 1"
+            }
+          },
+          {
+            "id": "2201f26b950abbed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inclino/HBK MV5-AR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HBK MV5-AR"
+            }
+          },
+          {
+            "id": "b52c3ac42194bc1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sensoren.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sensoren"
+            }
+          },
+          {
+            "id": "7bfbdd5b5df96753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algemene zaken/Sprintplannings/SP1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SP1"
+            }
+          },
+          {
+            "id": "8e07fdc75255c6e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inclino/InclinoTest.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "InclinoTest"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "50bbbacb822a6128",
+    "type": "split",
+    "children": [
+      {
+        "id": "13af9f948bb09069",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5e5b3899e3bc961",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0c118e9b39257acd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d542d5405fcb8b2d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d7a835005acf5a89",
+    "type": "split",
+    "children": [
+      {
+        "id": "d094be6eb038a64e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e3ed3d4de2358b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Logboek/Sprint 6 (Opleveren)/Stappenplan afronden stage.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "af93da0097bdcf8d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Logboek/Sprint 6 (Opleveren)/Stappenplan afronden stage.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b0870c9712a77a1f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "23f328660d40dc5d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "fc99812b51c5a61b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Logboek/Sprint 6 (Opleveren)/Stappenplan afronden stage.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "03bf5de8221e5112",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "mermaid-flow:Mermaid Flow Editor": false
+    }
+  },
+  "active": "e5e5b3899e3bc961",
+  "lastOpenFiles": [
+    "Onderzoeken/Algemeen/Template STARTDOCUMENT-1.docx",
+    "Onderzoeken/Algemeen/Huidig CMS.md",
+    "Onderzoeken/Algemeen/HoofdDeelProduct.md",
+    "Onderzoeken/Algemeen/Contacten en relaties.md",
+    "Leeruitkomsten/LeeruitkomstenUitleg.md",
+    "Untitled 1",
+    "Leeruitkomsten/Items/Soorten items.md",
+    "Leeruitkomsten/Leeruitkomst 5",
+    "Leeruitkomsten/Leeruitkomst 4",
+    "Leeruitkomsten/Leeruitkomst 3",
+    "Leeruitkomsten/Leeruitkomst 2",
+    "Leeruitkomsten/Leeruitkomst 1",
+    "Onderzoeken",
+    "Onderzoeken/Algemeen/Terugkomdag1.md",
+    "ZelfreflectieFeedback/FeedbackStartdocument.md",
+    "Onderzoeken/Eisen",
+    "Pictures/WhatsApp Image 2026-09-16 at 11.22.44.jpeg",
+    "Algemene zaken/Sprintplannings/SP1.md",
+    "Algemene zaken/Sprintplannings/SP2.md",
+    "Algemene zaken/Sprintplannings/SP5.md",
+    "Logboek/Sprint 1/week 3/2026-09-15.md",
+    "Algemene zaken/Sprintplannings/SP6.md",
+    "Algemene zaken/Sprintplannings/SP4.md",
+    "Meetings/CFS Departement meeting.md",
+    "Onderzoeken/Eisen/Eisen DSD.md",
+    "Onderzoeken/Inclino/Sensoren.md",
+    "Onderzoeken/Inclino/HBK MV5-AR.md",
+    "Meetings/Gesprek jan Sterrenburg.md",
+    "Logboek/Sprint 1/Sprint 1.md",
+    "Meetings/Meetings.md",
+    "Meetings/FridayReview/Friday1.md",
+    "Meetings/CMS Meeting1.md",
+    "Onderzoeken/Inclino/CF2200160-EISP-9000e3- CFS Inclino Test final BLEY.pdf",
+    "Algemene zaken/PersoonlijkeLeerdoelen/LDSprint1.md",
+    "Algemene zaken/PersoonlijkeLeerdoelen/PersoonlijkeLeerdoelen.md",
+    "Onderzoeken/Inclino/InclinoTest.md",
+    "Pictures/DV.png",
+    "Pictures/Crane_Rotax.png",
+    "Pictures/Pasted image 20260909092813.png",
+    "Pictures/Pasted image 20260908163956.png",
+    "Pictures/LeanDiagram.jpg",
+    "Pictures/DoosSpullenLos.jpeg",
+    "Pictures/KraanOpenLinksRechts.jpeg",
+    "Pictures/KraanOpenRechts.jpeg",
+    "Pictures/KostenCMS.jpeg",
+    "Untitled.canvas"
+  ]
+}

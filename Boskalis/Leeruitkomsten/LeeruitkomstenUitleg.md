@@ -1,4 +1,4 @@
-b# Semesterleeruitkomst
+# Semesterleeruitkomst
 
 De student analyseert individueel en onder minimale begeleiding een vraagstuk uit een beroepssituatie, waarin nog ruimte is voor eigen invulling en volgens een zelf gedefinieerde, passende aanpak in samenwerking met de beroepsomgeving. De student ontwerpt en realiseert vanuit diens expertise ICT-beroepsproducten, adviseert hierover, coördineert dit en levert dit op een adequate manier op aan relevante stakeholders. De student stemt de wenselijke oplossing voortdurend en systematisch af met (directe) stakeholders. De student reflecteert op het eigen handelen in relatie tot andermans waarden en normen en houdt bij elke stap rekening met de impact van (tussen)resultaten op organisatie en maatschappij.
 

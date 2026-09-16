@@ -1,0 +1,46 @@
+{
+  "obsidian-tasks-plugin:edit-task": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "]"
+    }
+  ],
+  "mermaid-flow:ai-generate-from-text": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "7"
+    }
+  ],
+  "mermaid-flow:show-welcome": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "6"
+    }
+  ],
+  "mermaid-flow:edit-mermaid-visually": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "5"
+    }
+  ],
+  "obsidian-git:clone-repo": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ]
+}
